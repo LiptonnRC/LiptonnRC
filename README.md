@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on developing Minecraft mod 
 - 📫 How to reach me discord @liptonnrc
 - 😄 Pronouns: He
-- ⚡ Fun fact: I considered programing as an occuparion I would never like to have, but today I see it as my future.
+- ⚡ Fun fact: I've considered programing as an occuparion I would never like to have, but today I see it as my future.
 
 <!---
 LiptonnRC/LiptonnRC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
